@@ -1,0 +1,2 @@
+Feature 1 deleted 
+Feature 2 added
